@@ -2,7 +2,5 @@
 Practice repository for learning Git, GitHub, and data science.
 
 
-
-I modified on remote repository!!
-
+I did not modify on remote repository!!
 
